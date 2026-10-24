@@ -1,0 +1,29 @@
+export const translations = {
+  tr: {
+    skip: 'İçeriğe geç', home: 'Ana sayfa', menuOpen: 'Menüyü aç', menuClose: 'Menüyü kapat', nav: 'Ana menü', talk: 'Konuşalım', language: 'Site dili',
+    hello: 'MERHABA, BEN', projectsCta: 'Projelerimi incele', aboutCta: 'Hakkımda', note: 'Frontend geliştirme. İstanbul’dan.', scroll: 'Keşfetmek için kaydır', idea: 'FİKİR', code: 'KOD', experience: 'DENEYİM',
+    codePreview: 'Kod önizlemesi', copyCode: 'Kodu kopyala', copiedCode: 'Kod kopyalandı', copyError: 'Kopyalama kullanılamıyor', terminalLine1: 'Frontend geliştirme', terminalLine2: 'Anadolu Üniversitesi', terminalLine3: 'İstanbul / Türkiye',
+    aboutLabel: 'BİRAZ BEN', aboutTitle1: 'Merakla başlar.', aboutTitle2: 'Kodla şekillenir.', story: 'HİKÂYEMİN BAŞLANGICI', student: 'Ön-Yüz Yazılım Geliştirme', year: '2. sınıf öğrencisi', resumeLink: 'Özgeçmişe göz at',
+    skillsLabel: 'TEKNOLOJİLER', skillsTitle1: 'Geliştirme', skillsTitle2: 'araç kutum.', skillsDescription: 'Programlama dillerinden arayüz tasarımına, çalıştığım teknolojiler ve araçlar.', skillsNote: 'Kod, arayüz ve onları bir araya getiren araçlar.',
+    projectsLabel: 'SEÇİLİ ÇALIŞMALAR', projectsTitle1: 'Fikirden', projectsTitle2: 'ekrana.', projectsDescription: 'Kurumsal web siteleri, e-ticaret ve dijital marka deneyimleri. Çalışmalarımın küçük bir seçkisi.',
+    all: 'Tümü', corporate: 'Kurumsal', commerce: 'E-ticaret', property: 'Yaşam projesi', filter: 'Projeleri kategoriye göre filtrele', work: 'proje', preview: 'Önizleme', detail: 'Detayları incele', live: 'Siteyi ziyaret et', newTab: 'yeni sekmede açılır', screenshotAlt: 'web sitesinin ana sayfa önizlemesi',
+    resumeLabel: 'EĞİTİM & DENEYİM', resumeTitle1: 'Öğrenirken,', resumeTitle2: 'üreterek.', education: 'Eğitim', internship: 'Staj deneyimi', institutionLink: 'Kurumun web sitesi', cvLabel: 'ÖZGEÇMİŞ', cvTitle1: 'Tek dosyada,', cvTitle2: 'bütün yolculuk.', cvDescription: 'Eğitimim, teknolojiler ve seçili çalışmalarım. Türkçe özgeçmişimi PDF olarak indirebilirsiniz.', cvDownload: 'CV’yi indir', cvFormat: 'TÜRKÇE / PDF',
+    contactLabel: 'BİR MERHABA YETER', contactTitle1: 'Bir sonraki fikre', contactTitle2: 'birlikte', contactAccent: 'hayat verelim', contactBody1: 'Bir proje, bir soru veya sadece bir merhaba.', contactBody2: 'Bana e-posta ile ulaşabilirsiniz.', copyEmail: 'E-posta adresini kopyala', emailCopied: 'E-posta adresi kopyalandı.', emailError: 'Kopyalanamadı. E-posta bağlantısını kullanabilirsiniz.', footer: 'Özenle düşünüldü. Kodla üretildi.', backTop: 'Başa dön', indicators: 'Bölüm göstergeleri', section: 'bölüm',
+    closer: 'DAHA YAKINDAN', close: 'Pencereyi kapat', notFound: 'Bu sayfa bulunamadı.', notFoundBody: 'Bağlantı değişmiş olabilir. Portfolyoya dönerek çalışmaları inceleyebilirsiniz.', return: 'Portfolyoya dön',
+    meta: 'Barış Ali AKÇA — İstanbul’da Frontend Developer ve Anadolu Üniversitesi Ön-Yüz Yazılım Geliştirme öğrencisi. Projeler, eğitim ve özgeçmiş.',
+  },
+  en: {
+    skip: 'Skip to content', home: 'Home', menuOpen: 'Open menu', menuClose: 'Close menu', nav: 'Main navigation', talk: 'Let’s talk', language: 'Site language',
+    hello: 'HELLO, I’M', projectsCta: 'Explore my work', aboutCta: 'About me', note: 'Frontend development. From Istanbul.', scroll: 'Scroll to explore', idea: 'IDEA', code: 'CODE', experience: 'EXPERIENCE',
+    codePreview: 'Code preview', copyCode: 'Copy code', copiedCode: 'Code copied', copyError: 'Copy is unavailable', terminalLine1: 'Frontend development', terminalLine2: 'Anadolu University', terminalLine3: 'Istanbul / Türkiye',
+    aboutLabel: 'A LITTLE ABOUT ME', aboutTitle1: 'It starts with curiosity.', aboutTitle2: 'It takes shape in code.', story: 'WHERE IT STARTED', student: 'Front-End Software Development', year: 'Second-year student', resumeLink: 'Explore my résumé',
+    skillsLabel: 'TECHNOLOGIES', skillsTitle1: 'My development', skillsTitle2: 'toolkit.', skillsDescription: 'From programming languages to interface design: the technologies and tools I work with.', skillsNote: 'Code, interfaces and the tools that connect them.',
+    projectsLabel: 'SELECTED WORK', projectsTitle1: 'From idea', projectsTitle2: 'to screen.', projectsDescription: 'Corporate websites, e-commerce and digital brand experiences. A selection of my work.',
+    all: 'All', corporate: 'Corporate', commerce: 'E-commerce', property: 'Residential', filter: 'Filter projects by category', work: 'projects', preview: 'Preview', detail: 'Explore project', live: 'Visit website', newTab: 'opens in a new tab', screenshotAlt: 'website homepage preview',
+    resumeLabel: 'EDUCATION & EXPERIENCE', resumeTitle1: 'Learning.', resumeTitle2: 'Building.', education: 'Education', internship: 'Internship experience', institutionLink: 'Company website', cvLabel: 'RÉSUMÉ', cvTitle1: 'The journey,', cvTitle2: 'in one document.', cvDescription: 'My education, technologies and selected work. Download my English résumé as a PDF.', cvDownload: 'Download CV', cvFormat: 'ENGLISH / PDF',
+    contactLabel: 'START WITH HELLO', contactTitle1: 'Your next idea.', contactTitle2: 'Let’s', contactAccent: 'bring it to life', contactBody1: 'A project, a question or just a hello.', contactBody2: 'You can reach me by email.', copyEmail: 'Copy email address', emailCopied: 'Email address copied.', emailError: 'Could not copy. Please use the email link.', footer: 'Thoughtfully designed. Brought to life in code.', backTop: 'Back to top', indicators: 'Section navigation', section: 'section',
+    closer: 'A CLOSER LOOK', close: 'Close dialog', notFound: 'This page could not be found.', notFoundBody: 'The link may have changed. Return to the portfolio to explore my work.', return: 'Back to portfolio',
+    meta: 'Barış Ali AKÇA — Frontend Developer in Istanbul and Front-End Software Development student at Anadolu University. Projects, education and résumé.',
+  },
+}
+export type Copy = typeof translations.tr
